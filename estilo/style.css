@@ -50,7 +50,7 @@ section.imagem {
     color: white;
     box-shadow: inset 5px 5px 15px 0px rgba(0, 0, 0, 0.662);
     background-size: cover;
-    background-position: right center;
+    background-position: left center;
     background-attachment: fixed;
 }
 
@@ -61,12 +61,12 @@ section.imagem > p {
     }
 
 section#img1 {
-    background-image: url(../shoyu2G.jpg);
+    background-image: url(../shoyu2w.jpg);
     
 }
 
 section#img2 {
-    background-image: url(../shoyu3G.jpg);
+    background-image: url(../shoyu3w.jpg);
     
 }
 
